@@ -1,0 +1,107 @@
+product_id,sku,product_name,description,category_id,brand_id,supplier_id,price,cost,weight_kg,is_active,created_at,updated_at
+1,,  Ultra Set 1  ,Descripción detallada del producto 1,4,6,6,,244.34,36.7,true,2022-12-03,2026-05-31
+2,SKU-000002,Elite Dispositivo 2,Descripción detallada del producto 2,8,5,7,390.65,199.23,20.1,true,2022-04-29,2026-02-20
+3,SKU-000003,Pro Set 3,Descripción detallada del producto 3,3,6,1,51.2,31.23,0,true,2023-04-22,2025-06-14
+4,SKU-000004,Premium Kit 4,Descripción detallada del producto 4,9,14,2,47.67,19.07,,true,2023-12-28,2025-10-04
+5,SKU-000005,max equipo 5,Descripción detallada del producto 5,7,15,3,32.72,20.61,26.3,true,2023-11-10,
+6,SKU-000006,Super Producto 6,Descripción detallada del producto 6,8,10,5,384.36,211.4,39.5,true,2022-12-10,2024-10-11
+7,SKU-000007,Premium Artículo 7,Descripción detallada del producto 7,8,7,7,266.54,133.27,29.5,true,2023-02-04,2025-01-18
+8,SKU-000008,Max Artículo 8,Descripción detallada del producto 8,9,13,3,18.99,9.31,16.9,true,2022-09-29,2025-05-31
+9,SKU-000009,Smart Producto 9,Descripción detallada del producto 9,8,12,3,368.35,232.06,25.3,true,2023-10-03,2026-05-27
+10,SKU-000010,Básico Herramienta 10,Descripción detallada del producto 10,100005,4,4,179.9,91.75,19,true,2023-12-09,2025-04-28
+11,SKU-000011,Premium Set 11,Descripción detallada del producto 11,,13,3,264.5,105.8,47.1,true,2022-04-07,2026-07-03
+12,SKU-000012,Pro Gadget 12,Descripción detallada del producto 12,10,2,5,483.81,193.52,10.2,true,2023-09-17,2024-01-04
+13,SKU-000013,Mega Gadget 13,Descripción detallada del producto 13,,13,4,404.86,194.33,46.5,true,2023-02-26,2026-01-28
+14,SKU-000014,Elite Widget 14,Descripción detallada del producto 14,3,4,7,204.11,83.69,48.3,true,2023-09-04,2025-09-30
+15,SKU-000015,"Super Equipo 15
+",Descripción detallada del producto 15,1,,5,298.18,146.11,13.4,true,,2025-01-13
+16,SKU-000016,Mega Dispositivo 16,Descripción detallada del producto 16,5,1,8,323.91,200.82,11.2,true,,
+17,SKU-000017,Básico Herramienta 17,Descripción detallada del producto 17,4,2,3,276.2,185.05,16.8,true,2023-02-15,2025-06-11
+18,SKU-000018,Smart Dispositivo 18,Descripción detallada del producto 18,1,14,6,60.04,39.03,11.9,true,2022-10-31,2026-08-24
+19,SKU-000019,Max Widget 19,Descripción detallada del producto 19,8,7,2,174.7,85.6,39.4,true,2023-10-04,2024-01-22
+20,SKU-000020,Super Dispositivo 20,Descripción detallada del producto 20,6,2,5,97.74,46.92,30.1,true,2022-07-10,2025-10-05
+21,SKU-000021,Ultra Kit 21,Descripción detallada del producto 21,2,15,4,25.22,15.38,6,,2022-02-23,2026-05-17
+22,SKU-000022,,Descripción detallada del producto 22,7,13,5,273.53,117767.51999999999,45.5,,,2025-11-11
+23,SKU-000023,Smart Herramienta 23,Descripción detallada del producto 23,8,13,1,56.83,23.3,11.2,true,2022-10-20,2026-02-25
+24,SKU-000024,Pro Equipo 24,Descripción detallada del producto 24,2,,2,37.01,25.54,17.6,true,17 Sep 2023,2026-08-20
+25,,Smart Kit 25,Descripción detallada del producto 25,1,8,6,,206.38,3.8,true,2022-04-20,
+26,SKU-000026,Premium Gadget 26,Descripción detallada del producto 26,8,9,4,30.42,14.91,36.4,true,2022-02-12,2025-09-02
+27,SKU-000027,Mega Kit 27,Descripción detallada del producto 27,6,,2,15.19,8.96,14,true,2022-01-19,2024-02-29
+28,,Ultra Pack 28,Descripción detallada del producto 28,1,10,1,32.74,22.26,27.5,true,2022-12-13,2024-11-13
+29,,Mini Producto 29,Descripción detallada del producto 29,8,,8,458.55,238.45,45.9,true,2022-02-19,2025-12-01
+30,SKU-000030,Pro Pack 30,Descripción detallada del producto 30,5,11,2,,110.42,30.7,true,2023-08-11,2027-03-05
+31,SKU-000031,Smart Dispositivo 31,Descripción detallada del producto 31,4,3,8,202.34,93.08,7.3,true,2023-05-23,2026-07-02
+32,SKU-000032,Básico Kit 32,Descripción detallada del producto 32,4,12,5,462.84,226.79,21,true,,2024-09-29
+33,SKU-000033,Ultra Artículo 33,Descripción detallada del producto 33,2,,7,248.8,166.7,31.3,true,2026-12-08,2026-02-27
+34,sku-000034,Elite Set 34,descripción detallada del producto 34,7,3,8,312.35,181.16,19.5,true,2022-01-22,2025-05-16
+35,SKU-000035,Super Pack 35,Descripción detallada del producto 35,3,14,1,259.4,124.51,49.8,false,2022-09-02,14 Dec 2024
+36,sku-000036,Ultra Gadget 36,Descripción detallada del producto 36,8,1,100006,151.21,77.12,37.3,true,2023-12-22,2025-08-08
+37,SKU-000037,Super Gadget 37,Descripción detallada del producto 37,1,15,5,281.96,152.26,18.1,,2022-05-07,
+38,SKU-000038,Premium Artículo 38,Descripción detallada del producto 38,7,6,5,313.13,172.22,42.7,true,2023-01-16,2025-04-09
+39,SKU-000039,Smart Kit 39,,100006,8,1,246.95,130.88,34.6,true,2023-12-29,05-12-2025
+40,SKU-000040,Pro Kit 40,Descripción detallada del producto 40,,4,,449.31,256.11,4.5,true,2023-11-25,2025-11-13
+41,SKU-000041,,,2,3,3,30.71,18.43,30,,2027-02-25,2026-02-13
+42,SKU-000042,Ultra Gadget 42,descripción detallada del producto 42,10,8,6,229.81,112.61,,true,2023-08-30,2025-10-22
+43,SKU-000043,  Pro Pack 43  ,Descripción detallada del producto 43,8,13,2,20.8,9.98,10.7,true,2023-04-12,
+44,SKU-000044,Mini Herramienta 44,Descripción detallada del producto 44,4,7,4,13.9,8.9,25.3,true,2022-03-17,2024-12-25
+45,SKU-000045,Mega Dispositivo 45,Descripción detallada del producto 45,5,2,6,472.68,198.53,,true,2023-01-14,2025-10-27
+46,SKU-000046,Elite Kit 46,Descripción detallada del producto 46,6,6,8,211.21,99.27,,true,2023-07-15,2026-09-29
+47,SKU-000047,Max Widget 47,Descripción detallada del producto 47,6,3,5,466.26,219.14,1.4,true,08/02/2023,2024-09-22
+48,SKU-000048,Mini Set 48,Descripción detallada del producto 48,7,13,4,15.74,6.45,8.2,true,2023-08-06,2025-08-04
+49,SKU-000049,Max Pack 49,Descripción detallada del producto 49,10,8,7,476.84,224.11,47.7,true,2022-04-29,2025-01-10
+50,SKU-000050,Ultra Herramienta 50,Descripción detallada del producto 50,7,14,6,9.97,6.18,11.3,true,2022-11-21,2026-07-22
+51,SKU-000051,Ultra Widget 51,Descripción detallada del producto 51,1,10,3,111.15,75.58,12.8,true,2022-09-10,2026-08-16
+52,SKU-000052,Elite Herramienta 52,Descripción detallada del producto 52,1,,,262.22,159.95,32.9,false,,2024-04-17
+53,SKU-000053,Super Kit 53,Descripción detallada del producto 53,,4,5,134.64,88.86,40.8,true,2022-04-27,2026-10-07
+54,SKU-000054,mini gadget 54,Descripción detallada del producto 54,5,,4,436.79,244.6,38.7,true,2023-12-26,
+55,SKU-000055,Premium Set 55,Descripción detallada del producto 55,4,1,3,175.45,119.31,12.1,true,2023-04-04,2024-12-23
+56,SKU-000056,,Descripción detallada del producto 56,5,5,5,423.23,279.33,16.1,false,2022-03-27,2024-12-05
+57,SKU-000057,Elite Set 57,Descripción detallada del producto 57,1,14,8,43.21,18.15,8.3,true,2023-09-01,2025-07-02
+58,SKU-000058,Super Widget 58,,7,7,3,439.03,272.2,32.4,true,,2025-09-20
+59,SKU-000059,,Descripción detallada del producto 59,8,,,48.99,28.9,37.1,false,2022/07/22,2025-02-27
+60,SKU-000060,Mega Dispositivo 60,Descripción detallada del producto 60,2,10,8,393.06,227.97,,true,2023-12-07,2024-06-04
+61,SKU-000061,Smart Artículo 61,Descripción detallada del producto 61,100004,2,,68.5,31.51,16.2,true,2022-05-23,
+62,SKU-000062,,Descripción detallada del producto 62,4,100010,6,371.76,185.88,19.7,true,2022-11-23,2025-12-13
+63,SKU-000063,,Descripción detallada del producto 63,5,13,1,421.68,253.01,31.9,false,2023-02-20,2026-06-11
+64,,Premium Dispositivo 64,Descripción detallada del producto 64,8,13,6,348.33,209,8.7,true,2022-03-07,2024-09-04
+65,SKU-000065,Mini Herramienta 65,Descripción detallada del producto 65,,1,5,16.2,,23.4,false,2023-04-10,2026-01-04
+66,SKU-000066,Super Equipo 66,,6,4,3,151.79,69.82,23.9,true,2023-10-14,2025-04-27
+67,SKU-000067,Mini Equipo 67,Descripción detallada del producto 67,10,5,,262.53,126.01,43.6,true,2023-03-16,2025-08-21
+68,SKU-000068,Ultra Herramienta 68,Descripción detallada del producto 68,4,4,7,299.68,149.84,20.1,true,2023-12-11,2024-11-14
+69,"SKU-000069
+",Básico Pack 69,Descripción detallada del producto 69,3,1,1,440.18,272.91,34.2,true,,2025-12-11
+70,,Mini Widget 70,Descripción detallada del producto 70,8,100010,6,437.16,209.84,25.6,false,2022-12-15,2024-01-14
+71,SKU-000071,Mini Gadget 71,Descripción detallada del producto 71,7,4,6,,54.1,34.3,true,2023-06-02,2025-02-17
+72,SKU-000072,"Pro Dispositivo 72
+",Descripción detallada del producto 72,3,100003,4,344.25,165.24,36.3,true,2023-08-25,2024-04-26
+73,,Mega Gadget 73,Descripción detallada del producto 73,10,5,4,294.78,206.35,17,true,2022-09-23,2026-02-08
+74,SKU-000074,Premium Artículo 74,Descripción detallada del producto 74,,3,6,290.31,191.6,33.8,true,2023-05-24,2025-06-23
+75,SKU-000075,Ultra Gadget 75,Descripción detallada del producto 75,10,,2,106.32,,42.3,true,2022-03-13,2024-11-25
+76,SKU-000076,Elite Equipo 76,Descripción detallada del producto 76,7,4,,282.82,127.27,,true,2022-06-18,2024-06-28
+77,SKU-000077,Mini Kit 77,,1,2,6,250.76,110.33,34.7,true,2022-09-10,2025-06-29
+78,SKU-000078,Mini Set 78,Descripción detallada del producto 78,5,14,5,385.61,161.96,43.5,true,2022-05-23,2026-08-21
+79,SKU-000079,Elite Gadget 79,Descripción detallada del producto 79,5,12,2,142.67,57.07,,true,2023-12-24,2025-11-09
+80,SKU-000080,Premium Pack 80,Descripción detallada del producto 80,,2,3,,165.4,34.9,true,2023-05-01,2025-06-27
+81,SKU-000081,,Descripción detallada del producto 81,100003,5,8,,228.91,37.5,true,2022-04-21,2026-03-04
+82,SKU-000082,Elite Equipo 82,,10,11,7,471.07,301.48,1.2,true,2023-03-09,2026-01-13
+83,,Mega Gadget 83,Descripción detallada del producto 83,2,6,3,389.79,191,26.5,true,2023-12-11,2026-06-15
+84,SKU-000084,  Pro Kit 84  ,,1,10,5,125.54,,,false,03 Dec 2022,2024-07-16
+85,SKU-000085,Básico Dispositivo 85,Descripción detallada del producto 85,7,1,8,305.31,161.81,,,2023-07-14,2024-09-22
+86,SKU-000086,Max Equipo 86,Descripción detallada del producto 86,4,15,1,183.8,95.58,20.2,true,2022-10-15,2024-11-30
+87,SKU-000087,Ultra Kit 87,Descripción detallada del producto 87,10,4,4,83.65,42.66,38.2,true,2023-03-09,2026-04-12
+88,SKU-000088,Premium Kit 88,Descripción detallada del producto 88,3,13,6,104.59,51.25,42,true,2022-10-18,10-10-2025
+89,SKU-000089,Pro Artículo 89,,9,7,5,89.22,57.1,16.1,true,05 Apr 2022,2024-03-05
+90,SKU-000090,Ultra Set 90,Descripción detallada del producto 90,8,10,7,330.97,168.79,12.7,true,2022-10-09,2024-02-22
+91,SKU-000091,Elite Set 91,Descripción detallada del producto 91,1,100012,7,434.71,247.78,46.7,true,2023-07-31,2024-06-27
+92,SKU-000092,Smart Dispositivo 92,descripción detallada del producto 92,7,100004,6,320.52,,38.8,,2023-01-31,2026-05-17
+93,  SKU-000093  ,SMART SET 93,Descripción detallada del producto 93,7,4,1,211.31,135.24,32.5,,2023-10-08,
+94,SKU-000094,Elite Set 94,Descripción detallada del producto 94,9,14,6,12.7,6.48,48.5,true,2023-12-30,2025-10-01
+95,SKU-000095,Premium Producto 95,Descripción detallada del producto 95,4,10,3,247.55,126.25,3.7,false,2022-02-14,2024-01-11
+96,SKU-000096,Premium Artículo 96,Descripción detallada del producto 96,100004,7,2,133.73,61.52,0.4,true,09/21/2022,2025-06-23
+97,SKU-000097,Super Artículo 97,Descripción detallada del producto 97,7,15,5,34.12,17.4,42.1,false,2023-03-31,2024-02-14
+98,SKU-000098,Premium Producto 98,Descripción detallada del producto 98,2,9,1,153.04,105.6,6.8,true,2023-02-20,2025-11-30
+99,,Elite Gadget 99,Descripción detallada del producto 99,6,3,3,427.36,290.6,7.1,true,,2025-12-31
+100,  SKU-000100  ,Max Widget 100,Descripción detallada del producto 100,1,13,100000,103.82,45.68,2,true,2022-08-23,2024-01-09
+28,,Ultra Pack 28,Descripción detallada del producto 28,1,10,1,32.74,22.26,27.5,true,2022-12-13,2024-11-13 00:36:42
+54,SKU-000054,Mini Gadget 54,Descripción detallada del producto 54,5,,4,436.79,244.6,38.7,true,2023-12-26,
+90,SKU-000090,Ultra Set 90,Descripción detallada del producto 90,8,10,7,330.97,168.79,12.7,true,2022-10-09,2024-02-22 00:04:36
